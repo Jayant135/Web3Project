@@ -58,7 +58,7 @@ function App() {
   const sendDocs = async (hash, date, id, name) => {
     await Web3Data.contract.methods
       .StoreDocument(hash, date, id, name)
-      .send({ from: Web3Data.accounts[0], gas: 5000000 })
+      .send({ from: Web3Data.accounts[0]})
       .on("transactionHash", (hash) => {
         console.log("TX Hash", hash);
       })
@@ -136,10 +136,10 @@ function App() {
                 <strong>Uploader:</strong> {data[3]}
               </p>
               <p>
-                <strong>Uploader Id:</strong> {data[0]}
+                <strong>Aadhar Id:</strong> {data[0]}
               </p>
               <p>
-                <strong>Data Uploaded:</strong> {data[4]}
+                <strong>Date Uploaded:</strong> {data[4]}
               </p>
               <p>
                 <strong>Uploader Address:</strong> {data[2]}
