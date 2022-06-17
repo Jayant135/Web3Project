@@ -39,7 +39,7 @@ Organisation
 ## Tech Stack
 
 **React :**  For creating frontend of webapp.  
-**Css :** For decorating webapp. 
+**Css :** For decorating webapp.  
 **Solidity :** For writing smart contracts.  
 **Web3.js :** A javascript library to interact with on-chain components.  
 **Truffle :** Development framework for testing and deploying smart contracts.  
