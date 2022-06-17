@@ -38,12 +38,12 @@ Organisation
 
 ## Tech Stack
 
-**React :**  For creating frontend of webapp.
-**Css :** For decorating webapp.
-**Solidity :** For writing smart contracts.
-**Web3.js :** A javascript library to interact with on-chain components.
-**Truffle :** Development framework for testing and deploying smart contracts.
-**IPFS :** The InterPlanetary File System is a protocol and peer-to-peer network for storing and sharing data in a distributed file system.
+**React :**  For creating frontend of webapp.  
+**Css :** For decorating webapp. 
+**Solidity :** For writing smart contracts.  
+**Web3.js :** A javascript library to interact with on-chain components.  
+**Truffle :** Development framework for testing and deploying smart contracts.  
+**IPFS :** The InterPlanetary File System is a protocol and peer-to-peer network for storing and sharing data in a distributed file system.  
 **Metamask :** A cryptocurrency wallet to interact with etherium blockchain and decentralised application.
 
 
